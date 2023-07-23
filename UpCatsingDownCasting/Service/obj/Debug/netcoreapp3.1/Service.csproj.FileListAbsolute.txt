@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\P515Lessons\PracticInClass\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\Admin\Desktop\P515Lessons\PracticInClass\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Admin\Desktop\P515Lessons\PracticInClass\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Admin\Desktop\P515Lessons\PracticInClass\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\P515Lessons\PracticInClass\Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\P515Lessons\PracticInClass\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\P515Lessons\PracticInClass\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\Admin\Desktop\P515Lessons\PracticInClass\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\P515Lessons\PracticInClass\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\Admin\Desktop\P515Lessons\PracticInClass\Service\obj\Debug\netcoreapp3.1\Service.pdb

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\P515Lessons\CastingPractice\CastingPractice\bin\Debug\netcoreapp3.1\CastingPractice.exe
+C:\Users\Admin\Desktop\P515Lessons\CastingPractice\CastingPractice\bin\Debug\netcoreapp3.1\CastingPractice.deps.json
+C:\Users\Admin\Desktop\P515Lessons\CastingPractice\CastingPractice\bin\Debug\netcoreapp3.1\CastingPractice.runtimeconfig.json
+C:\Users\Admin\Desktop\P515Lessons\CastingPractice\CastingPractice\bin\Debug\netcoreapp3.1\CastingPractice.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\P515Lessons\CastingPractice\CastingPractice\bin\Debug\netcoreapp3.1\CastingPractice.dll
+C:\Users\Admin\Desktop\P515Lessons\CastingPractice\CastingPractice\bin\Debug\netcoreapp3.1\CastingPractice.pdb
+C:\Users\Admin\Desktop\P515Lessons\CastingPractice\CastingPractice\obj\Debug\netcoreapp3.1\CastingPractice.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\P515Lessons\CastingPractice\CastingPractice\obj\Debug\netcoreapp3.1\CastingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\P515Lessons\CastingPractice\CastingPractice\obj\Debug\netcoreapp3.1\CastingPractice.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\P515Lessons\CastingPractice\CastingPractice\obj\Debug\netcoreapp3.1\CastingPractice.AssemblyInfo.cs
+C:\Users\Admin\Desktop\P515Lessons\CastingPractice\CastingPractice\obj\Debug\netcoreapp3.1\CastingPractice.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\P515Lessons\CastingPractice\CastingPractice\obj\Debug\netcoreapp3.1\CastingPractice.dll
+C:\Users\Admin\Desktop\P515Lessons\CastingPractice\CastingPractice\obj\Debug\netcoreapp3.1\CastingPractice.pdb
+C:\Users\Admin\Desktop\P515Lessons\CastingPractice\CastingPractice\obj\Debug\netcoreapp3.1\CastingPractice.genruntimeconfig.cache
